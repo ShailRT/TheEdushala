@@ -108,7 +108,7 @@
 				<div class="row">
 					<div class="col-lg-3 col-md-4 col-sm-6">
 						<div class="item-all-card text-dark item-hover-card p-6">
-							<a href="#" class="absolute-link"></a>
+							<a href="course/distance-mba.php" class="absolute-link"></a>
 							<div class="iteam-all-icon">
 								<i class="fe fe-book-open"></i>
 							</div>
@@ -121,20 +121,20 @@
 					</div>
 					<div class="col-lg-3 col-md-4 col-sm-6">
 						<div class="item-all-card text-dark item-hover-card p-6">
-							<a href="#" class="absolute-link"></a>
+							<a href="course/distance-mtech.php" class="absolute-link"></a>
 							<div class="iteam-all-icon">
 								<i class="fe fe-airplay"></i>
 							</div>
 							<div class="item-all-text mt-3">
-								<h5 class="mb-0">Distance MCA</h5>
-								<p class="mt-3">Masters of Computer Application [MCA]</p>
+								<h5 class="mb-0">Distance MTECH</h5>
+								<p class="mt-3">Masters of Technology <br>[MTECH]</p>
 								<a class="btn-link" href="javascript:void(0)"><i class="fe fe-chevron-right"></i> View More</a>
 							</div>
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-4 col-sm-6">
 						<div class="item-all-card text-dark item-hover-card p-6">
-							<a href="#" class="absolute-link"></a>
+							<a href="course/distance-mcom.php" class="absolute-link"></a>
 							<div class="iteam-all-icon">
 								<i class="fe fe-database"></i>
 							</div>
@@ -147,7 +147,7 @@
 					</div>
 					<div class="col-lg-3 col-md-4 col-sm-6">
 						<div class="item-all-card text-dark item-hover-card p-6">
-							<a href="#" class="absolute-link"></a>
+							<a href="course/distance-ma.php" class="absolute-link"></a>
 							<div class="iteam-all-icon">
 								<i class="fe fe-heart"></i>
 							</div>
@@ -160,7 +160,7 @@
 					</div>
 					<div class="col-lg-3 col-md-4 col-sm-6">
 						<div class="item-all-card text-dark item-hover-card p-6">
-							<a href="#" class="absolute-link"></a>
+							<a href="course/distance-ba.php" class="absolute-link"></a>
 							<div class="iteam-all-icon">
 								<i class="fa fa-balance-scale"></i>
 							</div>
@@ -173,7 +173,7 @@
 					</div>
 					<div class="col-lg-3 col-md-4 col-sm-6">
 						<div class="item-all-card text-dark item-hover-card p-6">
-							<a href="#" class="absolute-link"></a>
+							<a href="course/distance-bca.php" class="absolute-link"></a>
 							<div class="iteam-all-icon">
 								<i class="fe fe-hash"></i>
 							</div>
@@ -186,7 +186,7 @@
 					</div>
 					<div class="col-lg-3 col-md-4 col-sm-6">
 						<div class="item-all-card text-dark mb-lg-0 item-hover-card p-6">
-							<a href="#" class="absolute-link"></a>
+							<a href="course/distance-bca.php" class="absolute-link"></a>
 							<div class="iteam-all-icon">
 								<i class="fe fe-briefcase"></i>
 							</div>
@@ -199,7 +199,7 @@
 					</div>
 					<div class="col-lg-3 col-md-4 col-sm-6">
 						<div class="item-all-card text-dark mb-lg-0 item-hover-card p-6">
-							<a href="#" class="absolute-link"></a>
+							<a href="course/distance-bba.php" class="absolute-link"></a>
 							<div class="iteam-all-icon">
 								<i class="fe fe-bar-chart"></i>
 							</div>
@@ -653,7 +653,7 @@
 											<div class="item-card7-desc">
 												<div class="item-card7-text">
 													<a href="university/jain-university-ju-bangalore" class="text-dark">
-														<h4 class="font-weight-semibold mb-1">Jain University</h4>
+														<h4 class="font-weight-semibold mb-1">Jain University [JU]</h4>
 													</a>
 												</div>
 												<div class="d-flex mb-0">
@@ -685,7 +685,7 @@
 												<a href="university/chaudhary-ranbir-singh-university-crsu-jind.php" >
 
 												<a href="javascript:void(0)"></a>
-												<img src="Html/Edomi/assets/images/media/svsu.jpg" alt="img" class="cover-image br-7 border">
+												<img src="Html/Edomi/assets/images/media/sol.jpg" alt="img" class="cover-image br-7 border">
 											</div>
 											<!-- <div class="item-card7-overlaytext">
 													<h4  class="font-weight-semibold mb-0">$835.99</h4>
@@ -694,8 +694,8 @@
 										<div class="card-body">
 											<div class="item-card7-desc">
 												<div class="item-card7-text">
-													<a href="" class="text-dark">
-														<h4 class="font-weight-semibold mb-1"> Shri Vishwakarma Skill University (SVSU)</h4>
+													<a href="university/school-of-open-learning-delhi.php" class="text-dark">
+														<h4 class="font-weight-semibold mb-1"> School of Open Learning [SOL]</h4>
 													</a>
 												</div>
 												<div class="d-flex mb-0">
@@ -714,7 +714,7 @@
 														<a class="me-4"><span class="font-weight-bold">Duration :</span><span class="text-muted"> 2 Months </span></a>
 														<a class="me-4 float-end"><span class="font-weight-bold">Daily :</span><span class="text-muted"> 2 Hours</span></a>
 													</div> -->
-												<p class="mb-2 mt-1">The University was set up under the Swami Vivekanand Subharti Vishwavidyalaya Uttar Pradesh Adhiniyam. </p>
+												<p class="mb-3 mt-1">The School of Open Learning is a constituent college of the University of Delhi. It was established in 1962, and offers programmes in humanities. </p>
 											</div>
 										</div>
 									</div>
@@ -763,7 +763,7 @@
 										<div class="item-card7-img pt-5 px-5">
 											<div class="item-card7-imgs">
 												<a href="javascript:void(0)"></a>
-												<img src="Html/Edomi/assets/images/media/sriven.jpg" alt="img" class="cover-image br-7 border">
+												<img src="Html/Edomi/assets/images/media/gbu-logo.jpg" alt="img" class="cover-image br-7 border">
 											</div>
 											<!-- <div class="item-card7-overlaytext">
 													<h4  class="font-weight-semibold mb-0">$836.50</h4>
@@ -772,8 +772,8 @@
 										<div class="card-body">
 											<div class="item-card7-desc">
 												<div class="item-card7-text">
-													<a href="javascript:void(0)" class="text-dark">
-														<h4 class="font-weight-semibold mb-1">SRI VENKATESWARA UNIVERSITY [SVU]</h4>
+													<a href="university/gautam-buddha-university.php" class="text-dark">
+														<h4 class="font-weight-semibold mb-1">Gautam Buddha University [GBU]</h4>
 													</a>
 												</div>
 												<div class="d-flex mb-0">
@@ -793,6 +793,84 @@
 														<a class="me-4 float-end"><span class="font-weight-bold">Daily :</span> <span class="text-muted">3 Hours</span></a>
 													</div> -->
 												<p class="mb-0 mt-1">The University is ranked at 2nd spot in Andhra Pradesh by NIRF in the year 2020. It is accredited by NAAC with “A+” Grade</p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-xl-3 col-md-4">
+									<div class="card mb-0">
+										<div class="item-card7-img pt-5 px-5">
+											<div class="item-card7-imgs">
+												<a href="javascript:void(0)"></a>
+												<img src="Html/Edomi/assets/images/media/himalayan-logo.jpg" alt="img" class="cover-image br-7 border">
+											</div>
+											<!-- <div class="item-card7-overlaytext">
+													<h4  class="font-weight-semibold mb-0">$836.50</h4>
+												</div> -->
+										</div>
+										<div class="card-body">
+											<div class="item-card7-desc">
+												<div class="item-card7-text">
+													<a href="university/himalayan-university.php" class="text-dark">
+														<h4 class="font-weight-semibold mb-1">Himalayan University [HU]</h4>
+													</a>
+												</div>
+												<div class="d-flex mb-0">
+													<div class="star-ratings start-ratings-main clearfix me-3">
+														<div class="stars stars-example-fontawesome stars-example-fontawesome-sm">
+															<i class="fa fa-star text-warning"></i>
+															<i class="fa fa-star text-warning"></i>
+															<i class="fa fa-star text-warning"></i>
+															<i class="fa fa-star text-warning"></i>
+															<i class="fa fa-star text-muted"></i>
+														</div>
+													</div>
+													<span class=""> <b>8/10</b> </span>
+												</div>
+												<!-- <div class="pt-2 mb-3">
+														<a class="me-4"><span class="font-weight-bold">Duration :</span> <span class="text-muted"> 6 Months</span></a>
+														<a class="me-4 float-end"><span class="font-weight-bold">Daily :</span> <span class="text-muted">3 Hours</span></a>
+													</div> -->
+												<p class="mb-0 mt-1">Himalayan University, Itanagar, Arunachal Pradesh, India, is a university recognized by University Grant Commission, Government of India </p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-xl-3 col-md-4">
+									<div class="card mb-0">
+										<div class="item-card7-img pt-5 px-5">
+											<div class="item-card7-imgs">
+												<a href="javascript:void(0)"></a>
+												<img src="Html/Edomi/assets/images/media/swami-logo.jpg" alt="img" class="cover-image br-7 border">
+											</div>
+											<!-- <div class="item-card7-overlaytext">
+													<h4  class="font-weight-semibold mb-0">$836.50</h4>
+												</div> -->
+										</div>
+										<div class="card-body">
+											<div class="item-card7-desc">
+												<div class="item-card7-text">
+													<a href="university/swami-vivekanand-university.php" class="text-dark">
+														<h4 class="font-weight-semibold mb-1">Swami Vivekanand University [SVU]</h4>
+													</a>
+												</div>
+												<div class="d-flex mb-0">
+													<div class="star-ratings start-ratings-main clearfix me-3">
+														<div class="stars stars-example-fontawesome stars-example-fontawesome-sm">
+															<i class="fa fa-star text-warning"></i>
+															<i class="fa fa-star text-warning"></i>
+															<i class="fa fa-star text-warning"></i>
+															<i class="fa fa-star text-warning"></i>
+															<i class="fa fa-star text-muted"></i>
+														</div>
+													</div>
+													<span class=""> <b>8/10</b> </span>
+												</div>
+												<!-- <div class="pt-2 mb-3">
+														<a class="me-4"><span class="font-weight-bold">Duration :</span> <span class="text-muted"> 6 Months</span></a>
+														<a class="me-4 float-end"><span class="font-weight-bold">Daily :</span> <span class="text-muted">3 Hours</span></a>
+													</div> -->
+												<p class="mb-0 mt-1">SVN University is managaed by Prakhar Pragya Shiksha Prasar Avam Samaj Kalayn Samiti, Sagar, Madhya Pradesh (INDIA).</p>
 											</div>
 										</div>
 									</div>
@@ -1296,7 +1374,7 @@
 										<div class="card-body">
 											<div class="item-card7-desc">
 												<div class="item-card7-text">
-													<a href="college/mdu-regular.php" class="text-dark">
+													<a href="university/chaudhary-ranbir-singh-university-crsu-jind.php" class="text-dark">
 														<h4 class="font-weight-semibold mb-1">Maharshi Dayanand University [MDU]</h4>
 													</a>
 												</div>
@@ -1335,7 +1413,7 @@
 										<div class="card-body">
 											<div class="item-card7-desc">
 												<div class="item-card7-text">
-													<a href="college/crsu-regular.php" class="text-dark">
+													<a href="university/chaudhary-ranbir-singh-university-crsu-jind.php" class="text-dark">
 														<h4 class="font-weight-semibold mb-1">CHAUDHARY RANBIR SINGH UNIVERSITY [CRSU]</h4>
 													</a>
 												</div>
@@ -1374,7 +1452,7 @@
 										<div class="card-body">
 											<div class="item-card7-desc">
 												<div class="item-card7-text">
-													<a href="college/kuk-regular.php" class="text-dark">
+													<a href="university/kurukshetra-university-kuk.php" class="text-dark">
 														<h4 class="font-weight-semibold mb-1">KURUKSHETRA UNIVERSITY [KUK]</h4>
 													</a>
 												</div>

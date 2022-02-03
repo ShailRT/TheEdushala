@@ -12,29 +12,29 @@
 		<meta name="keywords" content=" ma, MA, MA distance,  MA regular, MA fees,  MA delhi admission, MA information"/>
 
 		<!-- Favicon -->
-		<link rel="icon" href="../../Html/Edomi/assets/images/brand/favicon.ico" type="image/x-icon"/>
-		<link rel="shortcut icon" type="image/x-icon" href="../../Html/assets/images/brand/favicon.ico" />
+		<link rel="icon" href="../Html/Edomi/assets/images/brand/favicon.ico" type="image/x-icon"/>
+		<link rel="shortcut icon" type="image/x-icon" href="../Html/assets/images/brand/favicon.ico" />
 
 		<!-- Title -->
 		<title> MA - Course, Fees, Admission, Colleges ; The Edushala</title>
 
 		<!-- Bootstrap css -->
-		<link href="../../Html/Edomi/assets/plugins/bootstrap/css/bootstrap.css" rel="stylesheet" />
+		<link href="../Html/Edomi/assets/plugins/bootstrap/css/bootstrap.css" rel="stylesheet" />
 
 		<!-- Style css -->
-		<link href="../../Html/Edomi/assets/css/style.css" rel="stylesheet" />
+		<link href="../Html/Edomi/assets/css/style.css" rel="stylesheet" />
 
 		<!-- Font-awesome  css -->
-		<link href="../../Html/Edomi/assets/css/icons.css" rel="stylesheet"/>
+		<link href="../Html/Edomi/assets/css/icons.css" rel="stylesheet"/>
 
 		<!--Select2 css -->
-		<link href="../../Html/Edomi/assets/plugins/select2/select2.css" rel="stylesheet" />
+		<link href="../Html/Edomi/assets/plugins/select2/select2.css" rel="stylesheet" />
 
 		<!-- Cookie css -->
 		<!-- <link href="../../assets/plugins/cookie/cookie.css" rel="stylesheet"> -->
 
 		<!-- Color Skin css -->
-		<link id="theme" rel="stylesheet" type="text/css" media="all" href="../../Html/Edomi/assets/color-skins/color.css" />
+		<link id="theme" rel="stylesheet" type="text/css" media="all" href="../Html/Edomi/assets/color-skins/color.css" />
 
 	</head>
 
@@ -43,7 +43,7 @@
 		<div class="header-main">
 			
 			<!--Section-->
-			<div class="cover-image bg-background-1" data-bs-image-src="../../Html/Edomi/assets/images/banners/nmims.jpg">
+			<div class="cover-image bg-background-1" data-bs-image-src="../Html/Edomi/assets/images/banners/nmims.jpg">
 
 				<!--Topbar-->
 				<?php 
@@ -1072,7 +1072,7 @@
 				</div>
 			</div>
 		</section> -->
-		<section class="cover-image sptb bg-background-1" data-bs-image-src="../../Html/Edomi/assets/images/banners/banner6.jpg">
+		<section class="cover-image sptb bg-background-1" data-bs-image-src="../Html/Edomi/assets/images/banners/banner6.jpg">
 			<div class="content-text mb-0">
 				<div class="container">
 					<div class="text-white">
@@ -1202,7 +1202,7 @@
 					<button type="button" class="btn btn-default" data-bs-dismiss="modal"><i class="fa fa-times"></i></button>
 					<div class="embed-responsive embed-responsive-16by9">
 						<video id="gossVideo" class="embed-responsive-item" controls="controls">
-							<source src="../../Html/Edomi/assets/video/14429931.mp4" type="video/mp4">
+							<source src="../Html/Edomi/assets/video/14429931.mp4" type="video/mp4">
 						</video>
 					</div>
 				</div>
@@ -1214,54 +1214,54 @@
 		<a href="#top" id="back-to-top" ><i class="fa fa-long-arrow-up"></i></a>
 
 		<!-- JQuery js-->
-		<script src="../../Html/Edomi/assets/js/jquery.min.js"></script>
+		<script src="../Html/Edomi/assets/js/jquery.min.js"></script>
 
 		<!-- Bootstrap js -->
-		<script src="../../Html/Edomi/assets/plugins/bootstrap/js/popper.min.js"></script>
-		<script src="../../Html/Edomi/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+		<script src="../Html/Edomi/assets/plugins/bootstrap/js/popper.min.js"></script>
+		<script src="../Html/Edomi/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
 
 		<!--JQuery IT Coursesrkline js-->
-		<script src="../../Html/Edomi/assets/js/jquery.sparkline.min.js"></script>
+		<script src="../Html/Edomi/assets/js/jquery.sparkline.min.js"></script>
 
 		<!-- Circle Progress js-->
-		<script src="../../Html/Edomi/assets/js/circle-progress.min.js"></script>
+		<script src="../Html/Edomi/assets/js/circle-progress.min.js"></script>
 
 		<!-- Star Rating js-->
-		<script src="../../Html/Edomi/assets/plugins/jquery-bar-rating/jquery.barrating.js"></script>
-		<script src="../../Html/Edomi/assets/plugins/jquery-bar-rating/js/rating.js"></script>
+		<script src="../Html/Edomi/assets/plugins/jquery-bar-rating/jquery.barrating.js"></script>
+		<script src="../Html/Edomi/assets/plugins/jquery-bar-rating/js/rating.js"></script>
 
 		<!--Owl Carousel js -->
-		<script src="../../Html/Edomi/assets/plugins/owl-carousel/owl.carousel.js"></script>
+		<script src="../Html/Edomi/assets/plugins/owl-carousel/owl.carousel.js"></script>
 
 		<!--Horizontal Menu js-->
-		<script src="../../Html/Edomi/assets/plugins/horizontal-menu/horizontal-menu.js"></script>
+		<script src="../Html/Edomi/assets/plugins/horizontal-menu/horizontal-menu.js"></script>
 
 		<!--JQuery TouchSwipe js-->
-		<script src="../../Html/Edomi/assets/js/jquery.touchSwipe.min.js"></script>
+		<script src="../Html/Edomi/assets/js/jquery.touchSwipe.min.js"></script>
 
 		<!--Select2 js -->
-		<script src="../../Html/Edomi/assets/plugins/select2/select2.full.min.js"></script>
-		<script src="../../Html/Edomi/assets/js/select2.js"></script>
+		<script src="../Html/Edomi/assets/plugins/select2/select2.full.min.js"></script>
+		<script src="../Html/Edomi/assets/js/select2.js"></script>
 
 		<!-- Cookie js -->
 		<!-- <script src="../../assets/plugins/cookie/jquery.ihavecookies.js"></script>
 		<script src="../../assets/plugins/cookie/cookie.js"></script> -->
 
 		<!-- Count Down js-->
-		<script src="../../Html/Edomi/assets/plugins/count-down/jquery.lwtCountdown-1.0.js"></script>
+		<script src="../Html/Edomi/assets/plugins/count-down/jquery.lwtCountdown-1.0.js"></script>
 
 		<!-- sticky js-->
-		<script src="../../Html/Edomi/assets/js/sticky.js"></script>
+		<script src="../Html/Edomi/assets/js/sticky.js"></script>
 
 		<!-- Vertical scroll bar js-->
-		<script src="../../Html/Edomi/assets/plugins/vertical-scroll/jquery.bootstrap.newsbox.js"></script>
-		<script src="../../Html/Edomi/assets/plugins/vertical-scroll/vertical-scroll.js"></script>
+		<script src="../Html/Edomi/assets/plugins/vertical-scroll/jquery.bootstrap.newsbox.js"></script>
+		<script src="../Html/Edomi/assets/plugins/vertical-scroll/vertical-scroll.js"></script>
 
 		<!-- Scripts js-->
-		<script src="../../Html/Edomi/assets/js/owl-carousel.js"></script>
+		<script src="../Html/Edomi/assets/js/owl-carousel.js"></script>
 
 		<!-- Custom js-->
-		<script src="../../Html/Edomi/assets/js/custom.js"></script>
+		<script src="../Html/Edomi/assets/js/custom.js"></script>
 
 	</body>
 </html>
